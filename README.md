@@ -10,7 +10,7 @@ This project aims to bridge the gap between non-technical users and their abilit
 * Python (version 3.7 or higher)
 * pip (package installer for Python)
   
-1. Clone this project repository: https://github.com/rajput-code/DATA-EXTRACTION-FROM-HTML
+1. Clone this project repository: https://github.com/yasminakhtar30/DATA-EXTRACTION-FROM-HTML
 2. Install the requirements.txt: 'pip install -r requirements.txt' 
 
 # USAGE
